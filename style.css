@@ -1,0 +1,72 @@
+body{
+  background-color: #1DA1F2;
+  background-image: linear-gradient(white, #1DA1F2);
+  overflow: hidden;
+}
+header{
+  color: #1DA1F2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
+#MessageContact{
+  position: relative;
+  left: 0px;
+  width: 50%;
+  height: 200px;
+  border-radius: 20px;
+  background-color: white;
+  border: 2px solid black;
+}
+.img{
+  border-radius: 20px;
+}
+#myForm{
+  position: relative;
+  left: 50%;
+  width: 50%;
+  height: 200px;
+  border-radius: 20px;
+  background-color: white;
+  border: 2px solid black;
+}
+#msg{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  padding: 5px;
+  resize: none;
+}
+
+#buttonid{
+  margin-right: 0px;
+  width: 60px;
+  height:40px;
+  border-radius: 15px;
+  background-color: #1DA1F2;
+}
+
+#cont{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+
+.contYellow{
+  color: yellow;
+}
+
+.contRed{
+  color: red;
+}
+
+.newText{
+  background-color: white;
+  font-size: 30px;
+}

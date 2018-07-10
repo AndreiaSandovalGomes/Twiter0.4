@@ -1,0 +1,2 @@
+VERSÃO 0.0.4
+Ao pressionar enter (/n) aumente a área de texto de acordo com o tamanho do texto.
